@@ -14,7 +14,7 @@ Every offer has a validity period before the offer expires. As an example, a BOG
 
  This project is part of the Capstone project for Udacity's Data Science Nanodegree.
 
- A detailed blog post on the appoach as well as EDA and model results can be found [here](https://github.com/ininjame/udacity_capstone), as well as in the Jupyter Notebook file.
+ A detailed blog post on the appoach as well as EDA and model results can be found [here](https://medium.com/@ininjame/effective-offer-exercising-with-starbucks-data-c4ee1317b951), as well as in the Jupyter Notebook file.
 
  # Data Sets
 
